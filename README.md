@@ -1,2 +1,2 @@
-# Kumpulan Program PCS
+# Kumpulan Program PCS Praktikum
 Dosen : Bu Sri Wulandari
